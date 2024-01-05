@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-experience in: java, c++, c, python, js, html, css, swift
+### Hi there ✌🏻
+- 🔭 I’m currently working on FRC & FTC robotics projects
+- 💻 I have experience in Java, C, C#, C++, Python, JS, Web dev
+- 🌱 I’m currently learning Scala & improving on my Swift skills
+
 
