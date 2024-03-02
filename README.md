@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there ✌🏻
 - 🔭 I’m currently working on FRC & FTC robotics projects
-- 💻 I have experience in Java, C, C#, C++, Python, JS, Web dev
+- 💻 I have experience in Java, C, C#, C++, Python, JS, Full stack web dev
 - 🌱 Improving on my Swift skills
 
 
