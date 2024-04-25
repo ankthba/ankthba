@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there ✌🏻
 - 🔭 I’m currently working on FRC & FTC robotics projects
--   WPILib C++ & FTC Java SDK
+  - WPILib C++ & FTC Java SDK
 - 💻 I have experience in Java, C, C#, C++, Python, JS, Full stack web dev
 - 🌱 I'm currently improving on my Swift skills
 - 📫 How to reach me: aniketh.contact@gmail.com
