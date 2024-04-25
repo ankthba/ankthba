@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   -  C++
   -  Python
   -  JS
-  -  Full stack web dev
+  -  HTML + CSS
 - 🌱 I'm currently improving:
   - Swift skills
 - 📫 How to reach me:
