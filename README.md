@@ -63,7 +63,8 @@ public:
         {"Python", "expert"}
     };
     std::string environments[5] = {"FRC WPILibC++", "FTC Java SDK", "iOS", "iPadOS", "macOS"};
-    std::string ide[10] = {"Android Studio", "Atom", "Eclipse", "IDLE", "IntelliJ", "jGRASP", "PyCharm", "Visual Studio", "VS Code", "Xcode"};
+    std::string ide[10] = {"Android Studio", "Atom", "Eclipse", "IDLE", "IntelliJ", "jGRASP",
+    "PyCharm", "Visual Studio", "VS Code", "Xcode"};
 
     // Contact
     std::string email = "aniketh.contact@gmail.com";
