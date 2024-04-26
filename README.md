@@ -35,5 +35,6 @@ Here are some ideas to get you started:
 
 -->
 
-![codye4](https://github.com/ankthba/ankthba/assets/87498209/074c1f77-c713-4159-9d31-92f77fdf7203)
+![codye6](https://github.com/ankthba/ankthba/assets/87498209/18dc0cff-16cc-450b-9543-2f1b70a5e514)
+
 
