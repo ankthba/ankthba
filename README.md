@@ -53,7 +53,15 @@ public:
     std::string currentProject[1] = {"FRC robotics (prev FTC)"};
 
     // Experience
-    std::string languages[7] = {"C", "C#", "C++", "HTML + CSS", "Java", "JS", "Python"};
+    std::map<std::string, std::string> languages = {
+        {"C", "competent"},
+        {"C#", "competent"},
+        {"C++", "proficient"},
+        {"HTML + CSS", "expert"},
+        {"Java", "expert"},
+        {"JS", "proficient"},
+        {"Python", "expert"}
+    };
     std::string environments[5] = {"FRC WPILibC++", "FTC Java SDK", "iOS", "iPadOS", "macOS"};
     std::string ide[10] = {"Android Studio", "Atom", "Eclipse", "IDLE", "IntelliJ", "jGRASP", "PyCharm", "Visual Studio", "VS Code", "Xcode"};
 
