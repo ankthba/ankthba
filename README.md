@@ -1,4 +1,6 @@
 <!--
+
+
 ### Hi there 👋
 **ankthba/ankthba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,7 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ### Hi there ✌🏻
 - 🔭 I’m currently working on FRC robotics projects (prev FTC)
@@ -32,3 +33,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
   - aniketh.contact@gmail.com
 
+-->
+
+![codye 2](https://github.com/ankthba/ankthba/assets/87498209/48822802-e1be-4858-98e5-e984343faa28)
