@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   -  Python
   -  JS
   -  HTML + CSS
+  -  Swift
 - 🌱 I'm currently improving:
   - Swift skills
 - 📫 How to reach me:
