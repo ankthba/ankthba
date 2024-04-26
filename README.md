@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 -->
 
 <!--![25](https://github.com/ankthba/ankthba/assets/87498209/91a85bac-f3d4-43ca-9d93-acf5eb9c379d)-->
+
+
+```c++
 #include <iostream>
 #include <string>
 
@@ -56,5 +59,5 @@ public:
     std::string email = "aniketh.contact@gmail.com";
     std::string discord = "ankthba";
 };
-
+```
 
