@@ -19,14 +19,14 @@ Here are some ideas to get you started:
   - WPILib C++
   - FTC Java SDK
 - 💻 I have experience in:
-  -  Java
-  -  C
-  -  C#
-  -  C++
-  -  Python
-  -  JS
-  -  HTML + CSS
-  -  Swift
+  -  Java (expert)
+  -  C (competent)
+  -  C# (competent)
+  -  C++ (proficient)
+  -  Python (expert)
+  -  JS (proficient)
+  -  HTML + CSS (expert)
+  -  Swift (novice)
 - 🌱 I'm currently improving:
   - Swift skills
 - 📫 How to reach me:
