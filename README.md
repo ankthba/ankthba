@@ -35,6 +35,26 @@ Here are some ideas to get you started:
 
 -->
 
-![25](https://github.com/ankthba/ankthba/assets/87498209/91a85bac-f3d4-43ca-9d93-acf5eb9c379d)
+<!--![25](https://github.com/ankthba/ankthba/assets/87498209/91a85bac-f3d4-43ca-9d93-acf5eb9c379d)-->
+#include <iostream>
+#include <string>
+
+class MyInfo {
+public:
+    // General
+    std::string name = "Aniketh";
+    std::string school = "Oakton High School";
+    std::string team = "FRC 623";
+    std::string currentProject[1] = {"FRC robotics (prev FTC)"};
+
+    // Experience
+    std::string languages[7] = {"C", "C#", "C++", "HTML + CSS", "Java", "JS", "Python"};
+    std::string environments[5] = {"FRC WPILibC++", "FTC Java SDK", "iOS", "iPadOS", "macOS"};
+    std::string ide[10] = {"Android Studio", "Atom", "Eclipse", "IDLE", "IntelliJ", "jGRASP", "PyCharm", "Visual Studio", "VS Code", "Xcode"};
+
+    // Contact
+    std::string email = "aniketh.contact@gmail.com";
+    std::string discord = "ankthba";
+};
 
 
