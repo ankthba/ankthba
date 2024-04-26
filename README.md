@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 ### Hi there ✌🏻
 - 🔭 I’m currently working on FRC & FTC robotics projects
-  - WPILib C++
-  - FTC Java SDK
+  - WPILib C++ (competent)
+  - FTC Java SDK (proficient)
 - 💻 I have experience in:
   -  Java (expert)
   -  C (competent)
