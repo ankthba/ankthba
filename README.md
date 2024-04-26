@@ -54,8 +54,8 @@ public:
 
     // Experience
     std::map<std::string, std::string> languages = {
-        {"C", "competent"},
-        {"C#", "competent"},
+        {"C", "intermediate"},
+        {"C#", "intermediate"},
         {"C++", "proficient"},
         {"HTML + CSS", "expert"},
         {"Java", "expert"},
