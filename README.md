@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 
 -->
 
-
-![24](https://github.com/ankthba/ankthba/assets/87498209/b49aa051-41f3-408e-a9cd-b4e47f9d0633)
+![25](https://github.com/ankthba/ankthba/assets/87498209/91a85bac-f3d4-43ca-9d93-acf5eb9c379d)
 
 
