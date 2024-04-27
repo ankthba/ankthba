@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 
 ### about me
 
-![25](https://github.com/ankthba/ankthba/assets/87498209/91a85bac-f3d4-43ca-9d93-acf5eb9c379d)
+<!--![25](https://github.com/ankthba/ankthba/assets/87498209/91a85bac-f3d4-43ca-9d93-acf5eb9c379d)-->
 
 
-<!--
+
 ```c++
 
 #include <iostream>
@@ -74,5 +74,5 @@ public:
     std::string discord = "ankthba";
 };
 ```
--->
+
 
