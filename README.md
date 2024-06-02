@@ -35,17 +35,19 @@ Here are some ideas to get you started:
 
 -->
 
-### about me
+<details>
+  <summary><b>General Information</b></summary>
 
-# Aniketh's GitHub Page
-
-## General Information
 - **Name:** Aniketh
 - **School:** Oakton High School
 - **Team:** FRC 623
 - **Current Project:** FRC Robotics (previously FTC)
 
-## Experience
+</details>
+
+<details>
+  <summary><b>Experience</b></summary>
+
 ### Languages
 - C: Intermediate
 - C#: Intermediate
@@ -65,6 +67,25 @@ Here are some ideas to get you started:
 ### IDEs
 - Android Studio
 - Atom
+- Eclipse
+- IDLE
+- IntelliJ
+- jGRASP
+- PyCharm
+- Visual Studio
+- VS Code
+- Xcode
+
+</details>
+
+<details>
+  <summary><b>Contact</b></summary>
+
+- **Email:** [aniketh.contact@gmail.com](mailto:aniketh.contact@gmail.com)
+- **Discord:** ankthba
+
+</details>
+
 - Eclipse
 - IDLE
 - IntelliJ
