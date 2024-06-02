@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 
 -->
 
-
 <details>
   <summary><b>General Information</b></summary>
 
@@ -48,8 +47,10 @@ Here are some ideas to get you started:
 
 <details>
   <summary><b>Experience</b></summary>
+  
+<details>
+  <summary><b>Languages</b></summary>
 
-### Languages
 - C: Intermediate
 - C#: Intermediate
 - C++: Proficient
@@ -58,14 +59,22 @@ Here are some ideas to get you started:
 - JavaScript: Proficient
 - Python: Expert
 
-### Environments
+</details>
+
+<details>
+  <summary><b>Environments</b></summary>
+
 - FRC WPILibC++
 - FTC Java SDK
 - iOS
 - iPadOS
 - macOS
 
-### Integrated Development Environments
+</details>
+
+<details>
+  <summary><b>IDEs</b></summary>
+
 - Android Studio
 - Atom
 - Eclipse
@@ -76,6 +85,8 @@ Here are some ideas to get you started:
 - Visual Studio
 - VS Code
 - Xcode
+
+</details>
 
 </details>
 
