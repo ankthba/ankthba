@@ -78,10 +78,9 @@ Here are some ideas to get you started:
 
 </details>
 
-<details>
+
   <summary><b>Contact</b></summary>
 
 - **Email:** [aniketh.contact@gmail.com](mailto:aniketh.contact@gmail.com)
 - **Discord:** ankthba
 
-</details>
