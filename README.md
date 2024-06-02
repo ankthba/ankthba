@@ -64,7 +64,9 @@ Here are some ideas to get you started:
 - iPadOS
 - macOS
 
-### IDEs
+<details>
+  <summary><b>IDEs</b></summary>
+
 - Android Studio
 - Atom
 - Eclipse
@@ -78,6 +80,8 @@ Here are some ideas to get you started:
 
 </details>
 
+</details>
+
 <details>
   <summary><b>Contact</b></summary>
 
@@ -85,19 +89,6 @@ Here are some ideas to get you started:
 - **Discord:** ankthba
 
 </details>
-
-- Eclipse
-- IDLE
-- IntelliJ
-- jGRASP
-- PyCharm
-- Visual Studio
-- VS Code
-- Xcode
-
-## Contact
-- **Email:** [aniketh.contact@gmail.com](mailto:aniketh.contact@gmail.com)
-- **Discord:** ankthba
 
 
 
