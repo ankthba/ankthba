@@ -37,42 +37,46 @@ Here are some ideas to get you started:
 
 ### about me
 
-<!--![25](https://github.com/ankthba/ankthba/assets/87498209/91a85bac-f3d4-43ca-9d93-acf5eb9c379d)-->
+# Aniketh's GitHub Page
 
+## General Information
+- **Name:** Aniketh
+- **School:** Oakton High School
+- **Team:** FRC 623
+- **Current Project:** FRC Robotics (previously FTC)
 
+## Experience
+### Languages
+- C: Intermediate
+- C#: Intermediate
+- C++: Proficient
+- HTML + CSS: Expert
+- Java: Expert
+- JavaScript: Proficient
+- Python: Expert
 
-```c++
+### Environments
+- FRC WPILibC++
+- FTC Java SDK
+- iOS
+- iPadOS
+- macOS
 
-#include <iostream>
-#include <string>
+### IDEs
+- Android Studio
+- Atom
+- Eclipse
+- IDLE
+- IntelliJ
+- jGRASP
+- PyCharm
+- Visual Studio
+- VS Code
+- Xcode
 
-class MyInfo {
-public:
-    // General
-    std::string name = "Aniketh";
-    std::string school = "Oakton High School";
-    std::string team = "FRC 623";
-    std::string currentProject[1] = {"FRC robotics (prev FTC)"};
+## Contact
+- **Email:** [aniketh.contact@gmail.com](mailto:aniketh.contact@gmail.com)
+- **Discord:** ankthba
 
-    // Experience
-    std::map<std::string, std::string> languages = {
-        {"C", "intermediate"},
-        {"C#", "intermediate"},
-        {"C++", "proficient"},
-        {"HTML + CSS", "expert"},
-        {"Java", "expert"},
-        {"JS", "proficient"},
-        {"Python", "expert"}
-    };
-    std::string environments[5] = {"FRC WPILibC++", "FTC Java SDK",
-    "iOS", "iPadOS", "macOS"};
-    std::string ide[10] = {"Android Studio", "Atom", "Eclipse", "IDLE",
-    "IntelliJ", "jGRASP", "PyCharm", "Visual Studio", "VS Code", "Xcode"};
-
-    // Contact
-    std::string email = "aniketh.contact@gmail.com";
-    std::string discord = "ankthba";
-};
-```
 
 
