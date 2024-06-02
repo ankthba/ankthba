@@ -64,11 +64,7 @@ Here are some ideas to get you started:
 - iPadOS
 - macOS
 
-</details>
-
-<details>
-  <summary><b>IDEs</b></summary>
-
+### IDEs
 - Android Studio
 - Atom
 - Eclipse
