@@ -35,8 +35,10 @@ Here are some ideas to get you started:
 
 -->
 
+## General Information
+
 <details>
-  <summary><b>General Information</b></summary>
+  <summary><b>Details</b></summary>
 
 - **Name:** Aniketh
 - **School:** Oakton High School
@@ -87,11 +89,12 @@ Here are some ideas to get you started:
 
 </details>
 
+## Contact
+
 <details>
-  <summary><b>Contact</b></summary>
+  <summary><b>Details</b></summary>
 
 - **Email:** [aniketh.contact@gmail.com](mailto:aniketh.contact@gmail.com)
 - **Discord:** ankthba
 
 </details>
-
