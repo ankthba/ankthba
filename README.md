@@ -45,9 +45,8 @@ Here are some ideas to get you started:
 
 </details>
 
-<details>
-  <summary><b>Experience</b></summary>
-  
+## Experience
+
 <details>
   <summary><b>Languages</b></summary>
 
@@ -88,8 +87,6 @@ Here are some ideas to get you started:
 
 </details>
 
-</details>
-
 <details>
   <summary><b>Contact</b></summary>
 
@@ -97,3 +94,4 @@ Here are some ideas to get you started:
 - **Discord:** ankthba
 
 </details>
+
