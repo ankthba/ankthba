@@ -52,13 +52,13 @@ Here are some ideas to get you started:
 <details>
   <summary><b>Languages</b></summary>
 
-- C: Intermediate
-- C#: Intermediate
-- C++: Proficient
-- HTML + CSS: Expert
-- Java: Expert
-- JavaScript: Proficient
-- Python: Expert
+- C
+- C#
+- C++
+- HTML + CSS
+- Java
+- JavaScript
+- Python
 
 </details>
 
