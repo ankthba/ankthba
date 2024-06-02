@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 -->
 
+
 <details>
   <summary><b>General Information</b></summary>
 
@@ -64,7 +65,7 @@ Here are some ideas to get you started:
 - iPadOS
 - macOS
 
-### IDEs
+### Integrated Development Environments
 - Android Studio
 - Atom
 - Eclipse
@@ -78,9 +79,10 @@ Here are some ideas to get you started:
 
 </details>
 
-
+<details>
   <summary><b>Contact</b></summary>
 
 - **Email:** [aniketh.contact@gmail.com](mailto:aniketh.contact@gmail.com)
 - **Discord:** ankthba
 
+</details>
