@@ -64,6 +64,8 @@ Here are some ideas to get you started:
 - iPadOS
 - macOS
 
+</details>
+
 <details>
   <summary><b>IDEs</b></summary>
 
@@ -80,8 +82,6 @@ Here are some ideas to get you started:
 
 </details>
 
-</details>
-
 <details>
   <summary><b>Contact</b></summary>
 
@@ -89,6 +89,3 @@ Here are some ideas to get you started:
 - **Discord:** ankthba
 
 </details>
-
-
-
