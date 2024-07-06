@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - **Name:** Aniketh
 - **School:** Oakton High School
 - **Team:** FRC 623
-- **Current Project:** FRC Robotics (previously FTC)
+- **Current Project:** OCRadar & FRC Robotics (previously FTC)
 
 </details>
 
