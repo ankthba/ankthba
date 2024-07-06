@@ -1,6 +1,6 @@
 # Hi there, I'm Aniketh 👋
 - Rising junior at Oakton High School
-- Founder @OCRadar
+- Founder @[OCRadar](https://github.com/Oral-Cancer-Radar)
 - FRC 623
 
 ## 🛠 Skills
