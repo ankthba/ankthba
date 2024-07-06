@@ -6,7 +6,8 @@
 ## 🛠 Skills
 - **Languages:** C, C#, C++, HTML + CSS, Java, JavaScript, Python, Swift
 - **IDEs:** Android Studio, Atom, Eclipse, IDLE, IntelliJ, jGRASP, Jupyter Notebook, PyCharm, Visual Studio, VS Code, Xcode
-- **Environments:** FRC WPILibC++, FTC Java SDK, iOS, iPadOS, macOS
+- **Environments:** FRC WPILibC++, FTC Java SDK, iOS, iPadOS, macOS, WatchOS, Windows, Android
+- **AI/ML**
 
 ## 📫 How to reach me
 - **Email:** [aniketh.contact@gmail.com](mailto:aniketh.contact@gmail.com)
