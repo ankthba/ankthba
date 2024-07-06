@@ -5,7 +5,7 @@
 
 ## 🛠 Skills
 - **Languages:** C, C#, C++, HTML + CSS, Java, JavaScript, Python, Swift
-- **IDEs:** Android Studio, Atom, Eclipse, IDLE, IntelliJ, jGRASP, PyCharm, Visual Studio, VS Code, Xcode
+- **IDEs:** Android Studio, Atom, Eclipse, IDLE, IntelliJ, jGRASP, Jupyter Notebook, PyCharm, Visual Studio, VS Code, Xcode
 - **Environments:** FRC WPILibC++, FTC Java SDK, iOS, iPadOS, macOS
 
 ## 📫 How to reach me
