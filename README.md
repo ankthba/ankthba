@@ -1,6 +1,6 @@
 # Hi there, I'm Aniketh 👋
 - Rising junior at Oakton High School
-- Founder of OCRadar
+- Founder @OCRadar
 - FRC 623
 
 ## 🛠 Skills
