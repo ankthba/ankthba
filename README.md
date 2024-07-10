@@ -4,7 +4,7 @@
 - [FRC 623](https://github.com/CougarProgramming623)
 
 ## 🛠 Skills
-- **Languages:** C, C#, C++, HTML + CSS, Java, JavaScript, Python, Swift
+- **Languages:** Java, C++, Python, JS, Swift, HTML + CSS, C, C#
 - **IDEs:** Android Studio, Atom, Eclipse, IDLE, IntelliJ, jGRASP, PyCharm, Visual Studio, VS Code, Xcode
 - **Environments:** FRC WPILibC++, FTC Java SDK, iOS, iPadOS, macOS, WatchOS, Windows, Android, Jupyter Notebook, Microsoft Azure Labs
 - **AI/ML**
