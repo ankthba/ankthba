@@ -1,7 +1,7 @@
 # Hey, I'm Aniketh 👋
 - Junior at Oakton High School
 - CEO & Co-founder [@OCRadar](https://github.com/OCRadar)
-- [FRC 623](https://github.com/CougarProgramming623)
+- Programmer for [FRC 623](https://github.com/CougarProgramming623)
 
 ## 🛠 Skills
 - **Languages:** Java, C++, Python, JS, Swift, HTML + CSS, C, C#
