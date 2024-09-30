@@ -1,6 +1,6 @@
 # Hey, I'm Aniketh 👋
 - Junior at Oakton High School
-- Co-founder [OCRadar](https://github.com/OCRadar)
+- Co-founder of [OCRadar](https://github.com/OCRadar)
 - Programmer for [FRC 623](https://github.com/CougarProgramming623)
 
 ## 🛠 Skills
