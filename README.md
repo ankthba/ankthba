@@ -12,4 +12,3 @@
 ## 📫 How to reach me
 - **Email:** [aniketh.contact@gmail.com](mailto:aniketh.contact@gmail.com)
 - **Work Email:** [aniketh@ocradar.com](mailto:aniketh@ocradar.com)
-- **Discord:** ankthba
