@@ -7,7 +7,7 @@
 - **Languages:** Java, C++, Python, JS, Swift, HTML + CSS, C, C#
 - **IDEs:** Android Studio, Atom, Cursor, Eclipse, IDLE, IntelliJ, jGRASP, PyCharm, Visual Studio, VS Code, Xcode
 - **Environments:** FRC WPILibC++, FTC Java SDK, iOS, iPadOS, macOS, Windows, Android, Jupyter Notebook, Microsoft Azure, Git, GitHub
-- AI/ML
+- **AI/ML**
 
 ## 📫 How to reach me
 - **Email:** [aniketh.contact@gmail.com](mailto:aniketh.contact@gmail.com)
