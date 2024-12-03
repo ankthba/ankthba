@@ -11,3 +11,5 @@
 
 ## 📫 How to reach me
 - **Email:** [aniketh.contact@gmail.com](mailto:aniketh.contact@gmail.com)
+- **Discord:** @ankthba
+- **Socials:** @ankthba
