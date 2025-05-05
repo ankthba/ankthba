@@ -2,7 +2,7 @@
 - Junior at Oakton High School
 - Aspiring Electrical & Computer Engineering Student
 - President & Co-founder of [OCRadar](https://github.com/OCRadar)
-- Technical & Design Lead for [FRC 623](https://github.com/CougarProgramming623)
+- Technical Lead for [FRC 623](https://github.com/CougarProgramming623)
   - Former Software Lead
 
 ## 📫 How to reach me
