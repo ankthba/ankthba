@@ -1,5 +1,5 @@
 # Hey, I'm Aniketh 👋
-- Junior at Oakton High School
+- Rising Senior at Oakton High School
 - Aspiring Electrical & Computer Engineering Student
 - President & Co-founder of [OCRadar](https://github.com/OCRadar)
 - Technical Captain for [FRC 623](https://github.com/CougarProgramming623)
