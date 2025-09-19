@@ -1,6 +1,5 @@
 # Hey, I'm Aniketh 👋
 - President @ [OCRadar](https://github.com/OCRadar) & [Ohm](https://github.com/ohmhardware)
-- Engineering Lead & Former Software Lead for [FRC 623](https://github.com/CougarProgramming623)
 
 ## 📫 How to reach me
 - **Email:** [aniketh.contact@gmail.com](mailto:aniketh.contact@gmail.com)
