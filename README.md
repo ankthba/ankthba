@@ -5,3 +5,5 @@
 ## 📫 How to reach me
 - **Email:** [aniketh.contact@gmail.com](mailto:aniketh.contact@gmail.com)
 - **Socials:** @ankthba
+
+## 🌐 [aniketh.net](https://aniketh.net)
