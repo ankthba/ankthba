@@ -1,1 +1,1 @@
-# [aniketh.net](https://aniketh.net)
+[![Aniketh.net](./anikethnet.png)](https://aniketh.net)
