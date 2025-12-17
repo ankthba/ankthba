@@ -1,1 +1,1 @@
-[![Aniketh.net](./anikethgithub.png)](https://aniketh.net)
+[![Aniketh.net](./banner.jpg)](https://aniketh.net)
