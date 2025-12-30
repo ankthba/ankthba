@@ -5,5 +5,5 @@
 Founder @ Vayu Systems  
 Founder & President @ OCRadar  
 
-Software Lead, FRC 623 · Oakton Robotics  
-Captain & Software Lead · Oakton Robotics FTC
+Prev. Software Lead · Oakton Robotics FRC
+Prev. Captain & Software Lead · Oakton Robotics FTC
