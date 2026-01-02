@@ -1,4 +1,4 @@
-[![Aniketh.net](./banner.jpg)](https://aniketh.net)
+[![Aniketh.net](./banner.png)](https://aniketh.net)
 
 —
 
