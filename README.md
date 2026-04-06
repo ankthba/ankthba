@@ -6,6 +6,5 @@ Founder & President @ OCRadar
 Prev. Software Lead · Oakton Robotics FRC  
 Prev. Captain & Software Lead · Oakton Robotics FTC
 
-me@aniketh.net
-
+me@aniketh.net 
 zpq3uh@virginia.edu
