@@ -1,4 +1,4 @@
-CS + Applied Math at The University of Virginia
+Computer Science + Applied Mathematics at The University of Virginia
 
 Building Vayu Systems  
 Founder & President @ OCRadar  
