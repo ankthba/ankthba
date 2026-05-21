@@ -1,4 +1,4 @@
-Computer Science + Applied Mathematics at The University of Virginia
+CS & Applied Math @ UVA
 
 me@aniketh.net  
 zpq3uh@virginia.edu
